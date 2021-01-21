@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+}
+
+.input{
+    width: 49%;
+}
+#showParagraph1, #showParagraph2{
+    text-align: left;
+}
